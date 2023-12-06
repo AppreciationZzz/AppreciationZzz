@@ -15,10 +15,9 @@
 </div>
 
 <!-- 如果你想展示活动图，取消下一行的注释 -->
-<!-- <div align="center">
+<div align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=AppreciationZzz&theme=tokyo-night" />
-</div> -->
-
+</div>
 
 <!--
 **AppreciationZzz/AppreciationZzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
